@@ -1,6 +1,6 @@
 # PSX Horror UI Free
 
-**A free PS1 survival-horror menu theme for Godot 4, and 9-slice PNGs for any engine.** Set it
+**A free PS1 survival-horror menu theme for Godot 4 and Unity, and 9-slice PNGs for any engine.** Set it
 in Project Settings and every Button, slider, tab, checkbox and window in your game takes it on,
 with the inventory boxes, examine frame, heart monitor, map rooms, files and typewriter save
 slots on top.
@@ -8,9 +8,9 @@ slots on top.
 ### Want more?
 
 **[PSX Horror UI](https://heyheythere.itch.io/psx-horror-ui)** has five themes (mansion, fog,
-lab, blood and archive) and 36 item icons at 32 and 96 pixels (handgun, revolver, magnum,
-shotguns, SMG, grenade, ammo, herbs, sprays, pills, nine keys and keycards, crowbar, bolt
-cutters, fuses, diary and item box). Same files and names: install it over this one.
+lab, blood and archive) and 100 item icons at 32 and 96 pixels (handgun, revolver, magnum,
+shotguns, SMG, grenades, ammo for every calibre, herbs, sprays, pills, 20 keys and keycards,
+batteries, flares, files, crowbar, bolt cutters, puzzle pieces and item box). Same files and names: install it over this one.
 
 ### What's inside
 
@@ -45,4 +45,4 @@ change it and share it, as long as you credit it. The credit line, for your game
 
 `PSX Horror UI Free by heyheythere - https://heyheythere.itch.io/psx-horror-ui-free - CC BY 4.0`
 
-*Made with AI assistance (code, text, graphics), tested in Godot 4.3 and 4.7 on every renderer.*
+*Made with AI assistance (code, text, graphics), tested in Godot 4.3 and 4.7 on every renderer and in Unity 6.3.*

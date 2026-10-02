@@ -2,7 +2,7 @@ extends CanvasLayer
 ## The free sampler's line to its full pack, along the foot of the demo, right of its first quarter.
 ## Store captures leave it out.
 
-const TEXT := "PSX Horror UI has five themes (mansion, fog, lab, blood and archive) and 36 item icons at 32 and 96 pixels (handgun, revolver, magnum, shotguns, SMG, grenade, ammo, herbs, sprays, pills, nine keys and keycards, crowbar, bolt cutters, fuses, diary and item box)."
+const TEXT := "PSX Horror UI has five themes (mansion, fog, lab, blood and archive) and 100 item icons at 32 and 96 pixels (handgun, revolver, magnum, shotguns, SMG, grenades, ammo for every calibre, herbs, sprays, pills, 20 keys and keycards, batteries, flares, files, crowbar, bolt cutters, puzzle pieces and item box)."
 const NAME := "PSX Horror UI"
 const URL := "https://heyheythere.itch.io/psx-horror-ui"
 

@@ -7,9 +7,9 @@ cursor and the Ribbon bitmap font. Every image is also a plain PNG in the PS1's 
 its 9-slice margins listed for any other engine.
 
 **The full pack:** **[PSX Horror UI](https://heyheythere.itch.io/psx-horror-ui)** has five themes (mansion, fog,
-lab, blood and archive) and 36 item icons at 32 and 96 pixels (handgun, revolver, magnum,
-shotguns, SMG, grenade, ammo, herbs, sprays, pills, nine keys and keycards, crowbar, bolt
-cutters, fuses, diary and item box). Same files and names: install it over this one.
+lab, blood and archive) and 100 item icons at 32 and 96 pixels (handgun, revolver, magnum,
+shotguns, SMG, grenades, ammo for every calibre, herbs, sprays, pills, 20 keys and keycards,
+batteries, flares, files, crowbar, bolt cutters, puzzle pieces and item box). Same files and names: install it over this one.
 
 ## Use it in Godot
 
@@ -63,9 +63,9 @@ worse the condition (`demo/demo.gd`'s `Ecg`). `status/bar_*.png` are the bars' f
 
 ## Icons
 
-36 items, each twice: `icons/<name>.png` at 32x32 for the grid and `icons/large/<name>.png` at
-96x96 for the examine screen, rendered from the models of PSX Horror Props and PSX Firearms
-(https://heyheythere.itch.io) and cut to 15-bit colour with the PS1's dither. `icons/_sheet.png`
+100 items, each twice: `icons/<name>.png` at 32x32 for the grid and `icons/large/<name>.png` at
+96x96 for the examine screen, rendered from the models of PSX Horror Props, PSX Firearms and PSX
+Survival Pickups (https://heyheythere.itch.io) and cut to 15-bit colour with the PS1's dither. `icons/_sheet.png`
 has the small ones on one 6-column sheet. The themes leave Button icons untinted.
 
 ## Other engines
